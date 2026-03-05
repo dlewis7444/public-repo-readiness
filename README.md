@@ -9,7 +9,7 @@ It checks for secrets, PII, internal infrastructure references, and licensing is
 ```bash
 mkdir -p ~/.claude/skills/public-repo-readiness && \
   curl -o ~/.claude/skills/public-repo-readiness/SKILL.md \
-  https://raw.githubusercontent.com/dlewis7444/public-repo-readiness/main/SKILL.md
+  https://raw.githubusercontent.com/dlewis7444/public-repo-readiness/main/skills/public-repo-readiness/SKILL.md
 ```
 
 ## Usage
@@ -87,4 +87,4 @@ Claude: Writing remediation plan to ./public-repo-remediation-plan.md...
 
 ## Contributing
 
-Issues and PRs welcome. The skill logic lives entirely in `SKILL.md`.
+Issues and PRs welcome. The skill logic lives entirely in `skills/public-repo-readiness/SKILL.md`.
