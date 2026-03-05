@@ -9,7 +9,7 @@ It checks for secrets, PII, internal infrastructure references, and licensing is
 ```bash
 mkdir -p ~/.claude/skills/public-repo-readiness && \
   curl -o ~/.claude/skills/public-repo-readiness/SKILL.md \
-  https://raw.githubusercontent.com/USERNAME/public-repo-readiness/main/SKILL.md
+  https://raw.githubusercontent.com/dlewis7444/public-repo-readiness/main/SKILL.md
 ```
 
 ## Usage
