@@ -3,6 +3,6 @@
   "description": "Audits a codebase for secrets, PII, internal infrastructure references, and licensing issues before open-sourcing. Produces a remediation plan.",
   "author": {
     "name": "David Lewis",
-    "email": "dlewis7444@github.com"
+    "email": "david@lewisit.com"
   }
 }
