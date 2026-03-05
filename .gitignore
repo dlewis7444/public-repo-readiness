@@ -1,0 +1,6 @@
+# Internal authoring context
+CLAUDE.md
+docs/
+
+# OS
+.DS_Store
